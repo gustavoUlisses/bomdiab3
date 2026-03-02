@@ -24,9 +24,9 @@ export default function Home() {
             <div>
               <h1 className="text-3xl font-bold tracking-tight text-emerald-400 flex items-center gap-2">
                 <Activity className="w-8 h-8" />
-                Trader Generation B3
+                BOM DIA B3
               </h1>
-              <p className="text-zinc-400 mt-1">Hub integrado de gestão de risco e simuladores para a Bolsa de Valores.</p>
+              <p className="text-zinc-400 mt-1">Gestão de risco e simuladores para a Bolsa de Valores.</p>
             </div>
           </header>
 
